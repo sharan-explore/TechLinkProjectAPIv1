@@ -1,8 +1,5 @@
 
-//High level Arch : app.js calls router.js and db connections, router.js then calls the controllers, controllers then calls the models and attch the router to apiv1. 
-
-//Todo 1: Implement Logging
-//Todo 2: Put Swagger for API documentation
+https://github.com/sharan-explore/TechLinkProjectAPI
 
 var express = require('express');
 var bodyParser = require('body-parser');
