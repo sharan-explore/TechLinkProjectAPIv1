@@ -1,0 +1,10 @@
+{
+    "name": "topic-api",
+    "main": "serverapi.js",
+    "dependencies": {
+        "body-parser": "~1.0.1",
+        "cors": "2.8.1",
+        "express": "~4.5.1",
+        "mongoose": "^4.4.17"
+    }
+}
